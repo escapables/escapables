@@ -2,11 +2,11 @@
 
 Welcome to my GitHub profile. I'm a hobbyist experimenting with LLMs and agentic coding systems.
 
-I don't give agency to the AI beyond limited scopes depending on the context. That means I give the computer a specific task to iterate on until the source code reaches a point of stability/security/effectivity that I'm satisfied with. I cannot write code but I can read and understand it and know when it produces a program that is good or bad. Rick Rubin but for computers.
+I don't give agency to the AI beyond limited scopes depending on the context. That means I give the computer a specific task to iterate on until the source code reaches a point of stability/security/effectivity that I'm satisfied with. I have extensive knowledge of hardware and software in general and have been tinkering with them for over twenty years. I cannot write code but I can read and understand it and know when it produces a program that is good or bad. I know enough about most architectures to be able to design plans that are specific enough to get a good product out of all my hallucinating rocks. Rick Rubin but for computers.
 
-I design all my commits manually and then outsource all the manual labor to the Codex factory, and when that code comes back I close my eyes, massage my toes, and make a Decision, and in the end there is good software (well, good enough at least for my purposes and they work the way I want them to without any issues -- `motis-portable` has been tested extensively). If you don't believe me check out my MOTIS fork further down below.
+I design all my commits manually and then outsource all the manual labor to the Codex factory, and when that code comes back I close my eyes, massage my toes, and make a Decision, and in the end there is good software (well, good enough at least for my purposes and they work the way I want them to without any issues -- `motis-portable` has been tested extensively). 
 
-I have extensive knowledge of hardware and software in general and have been tinkering with them for over twenty years. I know enough about most architectures to be able to design plans that are specific enough to get a good product out of all my hallucinating rocks.
+If you don't believe me check out my MOTIS fork further down below, and if it looks like shit to you, please tell me what's bad about it. I won't hurt you
 
 ## Current Project
 
