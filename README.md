@@ -6,7 +6,7 @@ I don't give agency to the AI beyond limited scopes depending on the context. Th
 
 I design all my commits manually and then outsource all the manual labor to the Codex factory, and when that code comes back I close my eyes, massage my toes, and make a Decision, and in the end there is good software (well, good enough at least for my purposes and they work the way I want them to without any issues -- `motis-portable` has been tested extensively). If you don't believe me check out my MOTIS fork further down below.
 
-I have extensive knowledge of hardware and software in general and have been tinkering with them for over twenty years.
+I have extensive knowledge of hardware and software in general and have been tinkering with them for over twenty years. I know enough about most architectures to be able to design plans that are specific enough to get a good product out of all my hallucinating rocks.
 
 ## Current Project
 
