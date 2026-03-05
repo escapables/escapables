@@ -18,5 +18,5 @@ A workflow template for coordinating AI agent work using a local Markdown-based 
 
 - **[escapables/ordning](https://github.com/escapables/ordning)** — Portable offline calendar for Linux. Apple Calendar-inspired weekly view, local-only JSON storage, optional AES-256-GCM encryption, recurring events, and single-file AppImage deployment. Built with Tauri v2.
 - **[motis-portable](https://github.com/escapables/motis-portable)** — Linux-only offline transit/routing desktop app, forked from MOTIS. Runs multimodal routing, geocoding, and map tiles fully offline from a USB drive. Accepts GTFS and OSM PBF data.
-- **[ltengine-esc](https://github.com/escapables/ltengine-esc)** — Free, self-hosted local AI machine translation API in Rust. LibreTranslate-compatible, powered by Gemma3 models via llama.cpp with CUDA/Metal/Vulkan acceleration.
+- **[ltengine-esc](https://github.com/escapables/ltengine-esc)** — Free, self-hosted local AI machine translation API in Rust. LibreTranslate-compatible, powered by Gemma3 models via llama.cpp with CUDA/Metal/Vulkan acceleration. Maintaining-attempt fork.
 - **[sotis](https://github.com/escapables/sotis)** — Portable offline fuzzy file search tool for Linux. Typo-tolerant filename and content search across PDF, DOCX, EPUB, XLSX, and more. Native GUI via egui, powered by tantivy full-text search.
