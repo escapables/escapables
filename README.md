@@ -8,13 +8,15 @@ I design everything manually and then outsource all the manual labor to the Code
 
 I know enough about most architectures to be able to design plans that are specific enough to get a good product out of hallucinating rocks and if you don't believe me check out my MOTIS fork further down below. If it looks like shit to you, please tell me what's bad about it. I won't hurt you
 
-## Current Project
+## Current Projects
 
-### [motis-portable](https://github.com/escapables/motis-portable)
+### [escapables/template](https://github.com/escapables/template)
 
-A fork of **MOTIS** (Mobility, Tourism, Information System)—a sophisticated open-source transportation planning system. This project transforms MOTIS into a portable application that can run directly from a USB drive, making it accessible and distributable without complex installation requirements.
+A workflow template for coordinating AI agent work using a local Markdown-based versioning system. Dual-agent coordination between Claude and Codex via `/pickup`, `/receive`, and `/handoff` commands—minimizing GitHub API dependency while enabling parallel task execution.
 
-**Key Aspects:**
-- Demonstrates how agentic systems can tackle infrastructure modernization
-- Explores portability and accessibility in complex transportation software
-- A practical testbed for AI-assisted problem-solving in real-world domains
+### Other Projects
+
+- **[escapables/ordning](https://github.com/escapables/ordning)** — Portable offline calendar for Linux. Apple Calendar-inspired weekly view, local-only JSON storage, optional AES-256-GCM encryption, recurring events, and single-file AppImage deployment. Built with Tauri v2.
+- **[motis-portable](https://github.com/escapables/motis-portable)** — Linux-only offline transit/routing desktop app, forked from MOTIS. Runs multimodal routing, geocoding, and map tiles fully offline from a USB drive. Accepts GTFS and OSM PBF data.
+- **[ltengine-esc](https://github.com/escapables/ltengine-esc)** — Free, self-hosted local AI machine translation API in Rust. LibreTranslate-compatible, powered by Gemma3 models via llama.cpp with CUDA/Metal/Vulkan acceleration.
+- **[sotis](https://github.com/escapables/sotis)** — Portable offline fuzzy file search tool for Linux. Typo-tolerant filename and content search across PDF, DOCX, EPUB, XLSX, and more. Native GUI via egui, powered by tantivy full-text search.
